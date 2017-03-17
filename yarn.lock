@@ -5169,7 +5169,7 @@ strip-json-comments@~2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/strip-json-comments/-/strip-json-comments-2.0.1.tgz#3c531942e908c2697c0ec344858c286c7ca0a60a"
 
-supports-color@3.1.2:
+supports-color@3.1.2, supports-color@^3.1.0:
   version "3.1.2"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-3.1.2.tgz#72a262894d9d408b956ca05ff37b2ed8a6e2a2d5"
   dependencies:
@@ -5179,7 +5179,7 @@ supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
 
-supports-color@^3.1.0, supports-color@^3.2.3:
+supports-color@^3.2.3:
   version "3.2.3"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-3.2.3.tgz#65ac0504b3954171d8a64946b2ae3cbb8a5f54f6"
   dependencies:
@@ -5505,7 +5505,7 @@ vue-loader@^11.1.4:
 
 "vue-quill@https://github.com/CroudSupport/vue-quill.git#vue2":
   version "1.0.0"
-  resolved "https://github.com/CroudSupport/vue-quill.git#2fe687db3456fc97e98db3c8e0d02e012bcead53"
+  resolved "https://github.com/CroudSupport/vue-quill.git#d0b80675b1b987356e820eef5a1c8ee788578518"
   dependencies:
     quill "^1.2.2"
     quill-render "^1.0.5"
